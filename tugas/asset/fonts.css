@@ -1,0 +1,56 @@
+
+@font-face {
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 300;
+  src: url(/asset/fonts/Ubuntu-L_W.woff2) format("woff2"),
+  url(/asset/fonts/Ubuntu-L_W.woff) format("woff")
+}
+
+@font-face {
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/asset/fonts/Ubuntu-R_W.woff2) format("woff2"),
+  url(/asset/fonts/Ubuntu-R_W.woff) format("woff")
+}
+
+@font-face {
+  font-family: Ubuntu;
+  font-style: italic;
+  font-weight: 300;
+  src: url(/asset/fonts/Ubuntu-LI_W.woff2) format("woff2"),
+  url(/asset/fonts/Ubuntu-LI_W.woff) format("woff")
+}
+
+@font-face {
+  font-family: Ubuntu;
+  font-style: italic;
+  font-weight: 400;
+  src: url(/asset/fonts/ubuntu-ri-webfont.woff2) format("woff2"),
+  url(/asset/fonts/ubuntu-ri-webfont.woff) format("woff")
+}
+
+@font-face {
+  font-family: Ubuntu;
+  font-style: normal;
+  font-weight: 100;
+  src: url(/asset/fonts/Ubuntu-Th_W.woff2) format("woff2"),
+  url(/asset/fonts/Ubuntu-Th_W.woff) format("woff")
+}
+
+@font-face {
+  font-family: Ubuntu Mono;
+  font-style: normal;
+  font-weight: 300;
+  src: url(/asset/fonts/UbuntuMono-R_W.woff2) format("woff2"),
+  url(/asset/fonts/UbuntuMono-R_W.woff) format("woff")
+}
+
+@font-face {
+  font-family: Ubuntu Mono;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/asset/fonts/UbuntuMono-R_W.woff2) format("woff2"),
+  url(/asset/fonts/UbuntuMono-R_W.woff) format("woff")
+}

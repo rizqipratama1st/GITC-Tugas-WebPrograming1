@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+
+<style type="text/css" media="screen">
+  .p-strip--image {
+    background-image: url('../asset/775cc62b-vanilla-grad-background.png');
+    background-position: 75% 25%;
+  }
+</style>
+<link href="./profile_files/bootstrap.min.css" rel="stylesheet">
+<link href="./profile_files/carousel.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+
+ 
+
+  <div>
+    <form action="../" style="padding-left: 20%;">
+      <input type="submit" value="<<< KEMBALI" />
+  </div>
+
+  <br><br>
+
+
+
+
+  <main role="main">
+    <div class="container marketing">
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/dewi.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Dewi Mardyati</h2>
+          <p>Nim : 12171026<br> Jabatan : 1st Lead Lady</p>
+
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/ruqoyah.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Ruqoyah</h2>
+          <p>Nim : 12171082<br> Jabatan : Virtual Scope Leader</p>
+
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/abi.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Ahmad Habibudin</h2>
+          <p>Nim : 12171054<br> Jabatan : DevOps Leader</p>
+
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/rizkyn.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Rizky Nurahman</h2>
+          <p>Nim : 12171023<br> Jabatan : Communicate Master</p>
+
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/panggih.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Panggih Daryanto</h2>
+          <p>Nim : 12171017<br> Jabatan : Net Lead Engginer</p>
+
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/My.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Rizqi Pratama</h2>
+          <p>Nim : 12171139<br> Jabatan : Mission Critical Handler</p>
+
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="rounded-circle"
+            src="./profile_files/putra.png"
+            alt="Generic placeholder image" width="140" height="140">
+          <h2>Putra Awwal</h2>
+          <p>Nim : 12171257<br> Jabatan : Customer Success</p>
+
+        </div><!-- /.col-lg-4 -->
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div><!-- /.container -->
+
+
+    <!-- FOOTER -->
+
+  </main>
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="./profile_files/jquery-3.2.1.slim.min.js.download"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+  </script>
+  <script>
+    window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
+  </script>
+  <script src="./profile_files/popper.min.js.download"></script>
+  <script src="./profile_files/bootstrap.min.js.download"></script>
+
+  <script src="./profile_files/holder.min.js.download"></script>
+
+
+</body>
+
+</html>
